@@ -4,7 +4,7 @@ repository:
   description: repository template for github
 
   # A URL with more information about the repository
-  homepage: 
+  homepage: https://repometric.com
 
   # Either `true` to enable issues for this repository, `false` to disable them.
   has_issues: true
@@ -31,6 +31,7 @@ repository:
   allow_rebase_merge: true
 
 # Labels: define labels for Issues and Pull Requests
+# Colors and names are taken from https://github.com/yoshuawuyts/github-standard-labels
 labels:
   - name: "Type: Bug"
     color: ee0701
