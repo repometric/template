@@ -52,7 +52,7 @@ labels:
   - name: "Priority: Low"
     color: 0e8a16
   - name: "Status: Abandoned"
-    color: 000000
+    color: 100000
   - name: "Status: Available"
     color: c2e0c6
   - name: "Status: Blocked"
