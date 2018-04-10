@@ -59,7 +59,7 @@ labels:
   - name: "Status: Pending"
     color: fbca04
   - name: "Status: Rejected"
-    color: ffffff
+    color: 5319e7
 # Add areas by using the following template
 #  - name: "Area: API
-#    color: ffffff
+#    color: 1d76db
