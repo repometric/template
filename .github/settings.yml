@@ -47,7 +47,7 @@ labels:
   - name: "Type: Maintenance"
     color: fbca04
   - name: "Type: Question"
-    color: cc317c
+    color: 0e8a16
   - name: "Status: Available"
     color: c2e0c6
   - name: "Status: Blocked"
@@ -59,7 +59,7 @@ labels:
   - name: "Status: Pending"
     color: fbca04
   - name: "Status: Rejected"
-    color: fbca04
+    color: ffffff
 # Add areas by using the following template
 #  - name: "Area: API
 #    color: ffffff
