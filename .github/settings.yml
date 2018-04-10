@@ -31,28 +31,23 @@ repository:
   allow_rebase_merge: true
 
 # Labels: define labels for Issues and Pull Requests
-# Colors and names are taken from https://github.com/yoshuawuyts/github-standard-labels
+# Colors and idea are from https://github.com/yoshuawuyts/github-standard-labels
+# and http://issuelabeling.com/
 labels:
-  - name: "Type: Bug"
-    color: ee0701
-  - name: "Type: Documentation"
-    color: 5319e7
-  - name: "Type: Enhancement"
-    color: 1d76db
-  - name: "Type: Maintenance"
-    color: fbca04
-  - name: "Type: Question"
-    color: cc317c
-  - name: "Priority: Critical"
-    color: ee0701
   - name: "Priority: High"
     color: d93f0b
   - name: "Priority: Medium"
     color: fbca04
   - name: "Priority: Low"
     color: 0e8a16
-  - name: "Status: Abandoned"
-    color: 100000
+  - name: "Type: Bug"
+    color: ee0701
+  - name: "Type: Feature"
+    color: 1d76db
+  - name: "Type: Maintenance"
+    color: fbca04
+  - name: "Type: Question"
+    color: cc317c
   - name: "Status: Available"
     color: c2e0c6
   - name: "Status: Blocked"
@@ -61,9 +56,9 @@ labels:
     color: cccccc
   - name: "Status: On Hold"
     color: e99695
-  - name: "Status: Proposal"
-    color: d4c5f9
-  - name: "Status: Review Needed"
+  - name: "Status: Pending"
+    color: fbca04
+  - name: "Status: Rejected"
     color: fbca04
 # Add areas by using the following template
 #  - name: "Area: API
